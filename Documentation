@@ -3,10 +3,10 @@ An efficient algorithm for clustering 454 rRNA sequences.
 Version 43 ( Release )
 November 24, 2011
 Contact information:
-Richard.Christen@unice.fr
-bachar@unice.fr
-Author ( CrunchClust Release Version c++ ) : dipankar
-email : bachar@unice.fr
+Richard.Christen at unice.fr
+dumaatravaie at gmail.com
+Author ( CrunchClust Release Version 43 c++ ) : dipankar
+email : dumaatravaie at gmail.com
 Please do not forget to cite CrunchClust if you have used it for your work.
 Introduction
 Crunchclust is an efficient clustering algorithm which is capable of handling
